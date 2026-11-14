@@ -1,6 +1,8 @@
 node_modules/
 dist/
 dist-player/
+debug.log
+*.log
 work/
 outputs/
 *.tsbuildinfo
